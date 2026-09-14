@@ -1,0 +1,8 @@
+streamlit
+pandas==2.2.3
+numpy
+scikit-learn
+plotly
+joblib
+requests
+openpyxl
